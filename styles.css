@@ -1,0 +1,27 @@
+body{
+  background-color:#F6FFA4;
+}
+hr{
+  border-style:none;
+  border-top-style: dotted;
+  border-width: 7px;
+  border-color: grey;
+  width: 20%;
+  }
+H1{
+  color:#66BFBF;
+}
+H3{
+  color:#66BFBF;
+}
+.center{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 200px;
+  height: 200px;
+  background:url("https://www.google.com/imgres?imgurl=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F0f%2F6f%2Fbf%2F0f6fbf45c5c1bb0bff2a20f73e613462.jpg&imgrefurl=https%3A%2F%2Fwww.pinterest.com%2FCassieCareer%2Flinkedin-background-photos%2F&tbnid=j_aaRoyPlQwNMM&vet=12ahUKEwidn_7KiI_3AhV2jtgFHRugDPwQMygBegUIARC9AQ..i&docid=OP5N0euERqzZBM&w=652&h=240&q=cse%20background%20images%20linkedin&ved=2ahUKEwidn_7KiI_3AhV2jtgFHRugDPwQMygBegUIARC9AQ");
+}
+.n{
+  align-self: center;
+}
